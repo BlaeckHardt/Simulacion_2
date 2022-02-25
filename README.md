@@ -4,3 +4,6 @@ Work, homework and projects from simulation 2
 I love :pussy: , :coffee: and :pizza:
 
 Los proyectos que se encuentran actualizados son los siguientes:
+  Simulacion_Ejercicio_1.ipynb
+  Simulacion_Ejercicio_2.ipynb
+  Simulacion_Ejercicio_3.ipynb
