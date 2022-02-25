@@ -9,4 +9,4 @@
   Simulacion_Ejercicio_3.ipynb\n
   Tarea_1.ipynb\n
   Tarea_2.ipynb\n
-[Contribution guidelines for this project]
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
