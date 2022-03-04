@@ -10,6 +10,9 @@
   ### [Simulacion_Ejercicio_4.ipynb](https://github.com/BlaeckHardt/Simulacion_2/blob/6e7a8b515c50156fdbe415ed7c4aa5de17fec858/Simulacion_Ejercicio_4.ipynb)
   ### [Simulacion_Ejercicio_5.ipynb](https://github.com/BlaeckHardt/Simulacion_2/blob/81b8dcebf9029df662d2ed227e3f99ea44988eb1/Simulacion_Ejercicio_5.ipynb)
   ### [Simulacion_Ejercicio_6.ipynb](https://github.com/BlaeckHardt/Simulacion_2/blob/68fc667632167cd52ae59afa5c5bc56a3961d605/Simulacion_Ejercicio_6.ipynb)
+  ### [Simulacion_Ejercicio_7.ipynb]
+  ### [Simulacion_Ejercicio_8.ipynb]
+  ### [Simulacion_Ejercicio_9.ipynb]
   ### [Tarea_1.ipynb](https://github.com/BlaeckHardt/Simulacion_2/blob/de5057424b0d18344eaf0ecac2396d5db7867673/Tarea_1.ipynb)
   ### [Tarea_2.ipynb](https://github.com/BlaeckHardt/Simulacion_2/blob/cbe397839d2750ed012deeb3384ff54ffa4a3d7d/Tarea_2.ipynb)
   ### [Tarea_3.ipynb](https://github.com/BlaeckHardt/Simulacion_2/blob/09918a817dbe7df87c68292299e4a3d6be8fd354/Tarea_3.ipynb)
