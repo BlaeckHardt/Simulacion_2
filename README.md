@@ -1,7 +1,7 @@
 # Simulacion_2
 ## Trabajos, tareas y proyectos de simulación 2 
 
-## Me encanta el :flatbread:, el :coffee: y la :pizza:
+## Me encanta el :peach:, el :coffee: y la :pizza:
 
 ## Los proyectos que se encuentran actualizados y/o completos son los siguientes:
   ### [Simulacion_Ejercicio_1.ipynb](https://github.com/BlaeckHardt/Simulacion_2/blob/f84838493ef0cd2bf1414c3f2cee127f8699a6f8/Simulacion_Ejercicio_1.ipynb)
