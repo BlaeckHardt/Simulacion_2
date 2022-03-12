@@ -20,3 +20,6 @@
   ### [Tarea_2.ipynb](https://github.com/BlaeckHardt/Simulacion_2/blob/cbe397839d2750ed012deeb3384ff54ffa4a3d7d/Tarea_2.ipynb)
   ### [Tarea_3.ipynb](https://github.com/BlaeckHardt/Simulacion_2/blob/09918a817dbe7df87c68292299e4a3d6be8fd354/Tarea_3.ipynb)
   ### [Tarea_4.ipynb](https://github.com/BlaeckHardt/Simulacion_2/blob/f739dc05ff3ac91eb7a97fbb317c1e4f963c9c6c/Tarea_4.ipynb)
+
+
+linea de prueba
