@@ -24,10 +24,10 @@
   ### [Tarea_4.ipynb](https://github.com/BlaeckHardt/Simulacion_2/blob/f739dc05ff3ac91eb7a97fbb317c1e4f963c9c6c/Tarea_4.ipynb)
   ### [Tarea_5.ipynb]()
   ### [Tarea_6.ipynb]()
-| Pkt No. |Tpll  |tps  |Tiempo de arribo|Inicio de servicio|Hora de salida|Tiempo en fila |Tiempo en el sistema  |\n
-    "|---------|-----|----|--------------|-------------------|----------------|---------------|-----------------| \n",
-    "|    1    |  2  | 12 |       2      |         2         |      14        |      0        |       12        |\n",
-    "|    2    |  5  | 10 |       7      |         14        |      24        |      7        |       17        | \n",
+| Pkt No. |Tpll  |tps  |Tiempo de arribo|Inicio de servicio|Hora de salida|Tiempo en fila |Tiempo en el sistema  |
+|---------|-----|----|--------------|-------------------|----------------|---------------|-----------------| 
+|    1    |  2  | 12 |       2      |         2         |      14        |      0        |       12        |
+|    2    |  5  | 10 |       7      |         14        |      24        |      7        |       17        |
     "|    3    |  1  | 16 |       8      |         24        |      40        |      16       |       32        |\n",
     "|    4    |  4  | 9  |       12     |         40        |      49        |      28       |       37        |\n",
     "|    5    |  1  | 10 |       13     |         49        |      59        |      36       |       46        | \n",
