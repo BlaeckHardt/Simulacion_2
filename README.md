@@ -15,9 +15,9 @@
 |    6    |[Ejercicio 6](https://github.com/BlaeckHardt/Simulacion_2/blob/68fc667632167cd52ae59afa5c5bc56a3961d605/Simulacion_Ejercicio_6.ipynb)| 13 |[Medetl](https://github.com/Medetl/Simulacion/blob/d1dd56e766c215c7bea75fd13e43945180718d60/Pi.ipynb)|    6    |[Tarea 6]()|      43       |       56        |
 |    7    |[Ejercicio 7]()| 17 |[Medetl](https://github.com/Medetl/Simulacion/blob/d1dd56e766c215c7bea75fd13e43945180718d60/Integracion%20Monte%20Carlo.ipynb)|    7    |N/A|      53       |       70        |
 |    8    |[Ejercicio 8](https://github.com/BlaeckHardt/Simulacion_2/blob/adb4138de0def9b347bfccbe5c2da032cc892077/Simulacion_Ejercicio_8.ipynb)| 10 |[Medetl](https://github.com/Medetl/Simulacion/blob/d1dd56e766c215c7bea75fd13e43945180718d60/Integracion%20Monte%20Carlo.ipynb)|    8    |N/A|      68       |       78        |
-|    9    |[Ejercicio 9](https://github.com/BlaeckHardt/Simulacion_2/blob/49d4ba5d910a80c3682b18c00e595520176d7d2e/Simulacion_Ejercicio_9.ipynb)| 8  |       25     |    9    |N/A|      74       |       82        |
-|   10    |[Ejercicio 10](https://github.com/BlaeckHardt/Simulacion_2/blob/df431684ec609d207fe2ee5bf9d0c8047bd990cf/Simulacion_Ejercicio_10.ipynb)| 12 |       30     |   10    |N/A|      77       |       89        |
-|   11    |[Ejercicio 11]()| 8  |       25     |    9    |N/A|      74       |       82        |
+|    9    |[Ejercicio 9](https://github.com/BlaeckHardt/Simulacion_2/blob/49d4ba5d910a80c3682b18c00e595520176d7d2e/Simulacion_Ejercicio_9.ipynb)| 8  |[Medetl](https://github.com/Medetl/Simulacion/blob/d1dd56e766c215c7bea75fd13e43945180718d60/mas%20numeros%20aleatorios.ipynb)|    9    |N/A|      74       |       82        |
+|   10    |[Ejercicio 10](https://github.com/BlaeckHardt/Simulacion_2/blob/df431684ec609d207fe2ee5bf9d0c8047bd990cf/Simulacion_Ejercicio_10.ipynb)| 12 |[Medetl](https://github.com/Medetl/Simulacion/blob/d1dd56e766c215c7bea75fd13e43945180718d60/mas%20numeros%20aleatorios.ipynb)|   10    |N/A|      77       |       89        |
+|   11    |[Ejercicio 11]()| 8  |[Medetl](https://github.com/Medetl/Simulacion/blob/d1dd56e766c215c7bea75fd13e43945180718d60/mas%20numeros%20aleatorios.ipynb)|    9    |N/A|      74       |       82        |
 |   12    |[Ejercicio 12]()| 8  |       25     |    9    |N/A|      74       |       82        |
 |   13    |[Ejercicio 13]()| 8  |       25     |    9    |N/A|      74       |       82        |
 |   14    |[Ejercicio 14]()| 8  |       25     |    9    |N/A|      74       |       82        |
