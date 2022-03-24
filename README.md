@@ -33,4 +33,4 @@ Algunas ideas para el archivo [markdown](https://github.com/jfasebook/SoyInforma
 
 
 
-`![Imagen de un cheems](https://giffiles.alphacoders.com/212/212613.gif)`
+[Imagen de un cheems](https://giffiles.alphacoders.com/212/212613.gif)
