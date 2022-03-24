@@ -22,3 +22,10 @@
 |   13    |[Ejercicio 13]()|Sin asignar|[Medetl]()|    13   |[Tarea 13]()|Sin asignar|[Medetl]()|
 |   14    |[Ejercicio 14]()|Sin asignar|[Medetl]()|    14   |[Tarea 14]()|Sin asignar|[Medetl]()|
 |   15    |[Ejercicio 15]()|Sin asignar|[Medetl]()|    15   |[Tarea 15]()|Sin asignar|[Medetl]()|
+
+
+
+
+
+
+Algunas ideas para el archivo [markdown](https://github.com/jfasebook/SoyInformatico/blob/master/README.md) (.md)
