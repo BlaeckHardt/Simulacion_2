@@ -29,3 +29,8 @@
 
 
 Algunas ideas para el archivo [markdown](https://github.com/jfasebook/SoyInformatico/blob/master/README.md) (.md)
+
+
+
+
+`![Imagen de un cheems](https://giffiles.alphacoders.com/212/212613.gif)`
