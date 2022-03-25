@@ -18,7 +18,7 @@
 |    9    |[Ejercicio 9](https://github.com/BlaeckHardt/Simulacion_2/blob/9fbecbdbc96b743e97625d1f24de00d2bcc5511e/Ejercicios/Ejercicio%209.ipynb)|25/02/2022|[Medetl](https://github.com/Medetl/Simulacion/blob/d1dd56e766c215c7bea75fd13e43945180718d60/mas%20numeros%20aleatorios.ipynb)|    9    |[Tarea 9]()|Sin asignar|[Medetl]()|
 |   10    |[Ejercicio 10](https://github.com/BlaeckHardt/Simulacion_2/blob/91fe12b6efcc5a59d2cbdbdcd0ded12c8420d1b7/Ejercicios/Ejercicio%2010.ipynb)|01/03/2022|[Medetl](https://github.com/Medetl/Simulacion/blob/d1dd56e766c215c7bea75fd13e43945180718d60/mas%20numeros%20aleatorios.ipynb)|   10    |[Tarea 10]()|Sin asignar|[Medetl]()|
 |   11    |[Ejercicio 11](https://github.com/BlaeckHardt/Simulacion_2/blob/1d0cbbb6bea2856f5aba8f2e595b3429fdffaa80/Ejercicios/Ejercicio%2011.ipynb)|03/03/2022|[Medetl](https://github.com/Medetl/Simulacion/blob/d1dd56e766c215c7bea75fd13e43945180718d60/mas%20numeros%20aleatorios.ipynb)|    11   |[Tarea 11]()|Sin asignar|[Medetl]()|
-|   12    |[Ejercicio 12]()|Sin asignar|[Medetl]()|    12   |[Tarea 12]()|Sin asignar|[Medetl]()|
+|   12    |[Ejercicio 12](https://github.com/BlaeckHardt/Simulacion_2/blob/cbad395fca7404969812e9fc62f035139c2ebe5e/Ejercicios/Ejercicio%2012.ipynb)|10/03/2022|[Medetl](https://github.com/Medetl/Simulacion/blob/948f80fe7e21f81729e90d86d299e97179b5be1e/Simulacion%20de%20un%20sistema%20de%20linea%20de%20espera.ipynb)|    12   |[Tarea 12]()|Sin asignar|[Medetl]()|
 |   13    |[Ejercicio 13]()|Sin asignar|[Medetl]()|    13   |[Tarea 13]()|Sin asignar|[Medetl]()|
 |   14    |[Ejercicio 14]()|Sin asignar|[Medetl]()|    14   |[Tarea 14]()|Sin asignar|[Medetl]()|
 |   15    |[Ejercicio 15]()|Sin asignar|[Medetl]()|    15   |[Tarea 15]()|Sin asignar|[Medetl]()|
