@@ -22,8 +22,10 @@
 |   13    |[Ejercicio 13](https://github.com/BlaeckHardt/Simulacion_2/blob/7988ed77313ef210547d0635ccd8db7a0e58631f/Ejercicios/Ejercicio%2013.ipynb)|10/03/2022|[Medetl](https://github.com/Medetl/Simulacion/blob/948f80fe7e21f81729e90d86d299e97179b5be1e/Simulacion%20de%20un%20sistema%20de%20linea%20de%20espera.ipynb)|    13   |[Tarea 13]()|Sin asignar|[Medetl]()|
 |   14    |[Ejercicio 14]()|Sin asignar|[Medetl]()|    14   |[Tarea 14]()|Sin asignar|[Medetl]()|
 |   15    |[Ejercicio 15]()|Sin asignar|[Medetl]()|    15   |[Tarea 15]()|Sin asignar|[Medetl]()|
-
-
+|   16    |[Ejercicio 16]()|Sin asignar|[Medetl]()|    16   |[Tarea 16]()|Sin asignar|[Medetl]()|
+|   17    |[Ejercicio 17](https://github.com/BlaeckHardt/Simulacion_2/blob/8c1410be405603c6da442e6d09cd6cab21c5835a/Ejercicios/Ejercicio%2017.ipynb)|Sin asignar|[Medetl](https://github.com/Medetl/Simulacion/blob/d204b2504df410f69caf041211b9f33c899c7738/Notas%20sobre%20Python.ipynb)|    17   |[Tarea 17]()|Sin asignar|[Medetl]()|
+|   18    |[Ejercicio 18](https://github.com/BlaeckHardt/Simulacion_2/blob/8c1410be405603c6da442e6d09cd6cab21c5835a/Ejercicios/Ejercicio%2018.ipynb)|30/03/2022|[Medetl](https://github.com/Medetl/Simulacion/blob/d204b2504df410f69caf041211b9f33c899c7738/Notas%20sobre%20Python.ipynb)|    18   |[Tarea 18]()|Sin asignar|[Medetl]()|
+|   19    |[Ejercicio 19](https://github.com/BlaeckHardt/Simulacion_2/blob/8c1410be405603c6da442e6d09cd6cab21c5835a/Ejercicios/Ejercicio%2019.ipynb)|30/03/2022|[Medetl](https://github.com/Medetl/Simulacion/blob/d204b2504df410f69caf041211b9f33c899c7738/Notas%20sobre%20Python.ipynb)|    19   |[Tarea 19]()|Sin asignar|[Medetl]()|
 
 
 
