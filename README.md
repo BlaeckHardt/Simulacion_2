@@ -1,8 +1,6 @@
 # Simulacion_2
 ## Trabajos, tareas y proyectos de simulación 2 
 
-## Me encantan los :taco:, el :coffee: y la :pizza:
-
 ## Los proyectos que se encuentran actualizados y/o completos son los siguientes:
 
 |Número de ejercicio|Permalink|Fecha de realización|GitHub profesor|Número de tarea|Permalink|Fecha de realización|GitHub profesor|
